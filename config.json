@@ -1,0 +1,15 @@
+{
+  "checkForUpdates": true,
+  "force": false,
+  "requiredVersion": "1.0.3",
+  "optionalVersion": "1.1.0",
+  "updateUrl": "https://apps.apple.com/app/tawba/id123456",
+  "message": "A new version of Tawba is available. Please update to continue.",
+  "features": {
+    "reminders": true,
+    "darkMode": true,
+    "dhikrCounter": true
+  },
+  "maintenanceMode": false,
+  "maintenanceMessage": "Tawba is under maintenance. Please check back soon."
+}
