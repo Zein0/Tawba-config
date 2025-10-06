@@ -1,5 +1,5 @@
 {
-  "checkForUpdates": true,
+  "checkForUpdates": false,
   "force": false,
   "requiredVersion": "1.0.3",
   "optionalVersion": "1.1.0",
